@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+* Blog
+  * Russian: https://htrd.su/
+  * English (mostly empty :-)): https://htrd.su/en/
+* About Me:
+  * Russian: https://htrd.su/page/about/
+  * English: https://htrd.su/en/page/about/
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=h4tr3d&show_icons=true)
+
 <!--
 **h4tr3d/h4tr3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
